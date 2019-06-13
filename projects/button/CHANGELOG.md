@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.1](https://github.com/swapnilfarande/temp/compare/button-20190-1@0.4.0...button-20190-1@0.4.1) (2019-06-13)
+
+
+### Bug Fixes
+
+* testing publish ([944155a](https://github.com/swapnilfarande/temp/commit/944155a))
+
+
+
+
+
 # 0.4.0 (2019-06-13)
 
 
