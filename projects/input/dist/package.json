@@ -1,6 +1,6 @@
 {
-  "name": "input",
-  "version": "0.1.1",
+  "name": "input-20190-1",
+  "version": "0.1.2",
   "peerDependencies": {
     "@angular/common": "^8.0.0",
     "@angular/core": "^8.0.0"
@@ -9,16 +9,16 @@
   "publishConfig": {
     "directory": "dist"
   },
-  "gitHead": "9366a78d79dc04b9cb3493d97040bda1599e16ba",
-  "main": "bundles/input.umd.js",
-  "module": "fesm5/input.js",
-  "es2015": "fesm2015/input.js",
-  "esm5": "esm5/input.js",
-  "esm2015": "esm2015/input.js",
-  "fesm5": "fesm5/input.js",
-  "fesm2015": "fesm2015/input.js",
-  "typings": "input.d.ts",
-  "metadata": "input.metadata.json",
+  "gitHead": "3bec2376add4713c565e294e99c98b1127d1346d",
+  "main": "bundles/input-20190-1.umd.js",
+  "module": "fesm5/input-20190-1.js",
+  "es2015": "fesm2015/input-20190-1.js",
+  "esm5": "esm5/input-20190-1.js",
+  "esm2015": "esm2015/input-20190-1.js",
+  "fesm5": "fesm5/input-20190-1.js",
+  "fesm2015": "fesm2015/input-20190-1.js",
+  "typings": "input-20190-1.d.ts",
+  "metadata": "input-20190-1.metadata.json",
   "sideEffects": false,
   "dependencies": {
     "tslib": "^1.9.0"
