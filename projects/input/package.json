@@ -1,6 +1,6 @@
 {
   "name": "input",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "peerDependencies": {
     "@angular/common": "^8.0.0",
     "@angular/core": "^8.0.0"
@@ -9,6 +9,5 @@
   "publishConfig": {
     "directory": "dist"
   },
-
   "gitHead": "9366a78d79dc04b9cb3493d97040bda1599e16ba"
 }
