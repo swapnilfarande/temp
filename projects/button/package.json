@@ -5,5 +5,9 @@
     "@angular/common": "^8.0.0",
     "@angular/core": "^8.0.0"
   },
+
+  "publishConfig": {
+    "directory": "dist"
+  },
   "gitHead": "31fb32de5004e2cb35f304e9b8b5e2aee7408431"
 }

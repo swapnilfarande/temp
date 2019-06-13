@@ -3,6 +3,10 @@
     "projects/*"
   ],
   "version": "independent",
+
+  "publishConfig": {
+    "directory": "dist"
+  },
   "command": {
     "publish": {
       "conventionalCommits": true,
