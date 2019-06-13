@@ -36,7 +36,7 @@ var ButtonComponent = /** @class */ (function () {
     ButtonComponent.decorators = [
         { type: Component, args: [{
                     selector: 'lib-button',
-                    template: "\n    <p>\n      button works Demo testing!\n    </p>\n  "
+                    template: "\n    <p>\n      button works Demo testing !\n    </p>\n  "
                 }] }
     ];
     /** @nocollapse */
@@ -72,4 +72,4 @@ var ButtonModule = /** @class */ (function () {
  */
 
 export { ButtonComponent, ButtonModule, ButtonService };
-//# sourceMappingURL=button.js.map
+//# sourceMappingURL=button-20190-1.js.map

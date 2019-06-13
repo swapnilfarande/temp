@@ -1,7 +1,7 @@
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('@angular/core')) :
-    typeof define === 'function' && define.amd ? define('button', ['exports', '@angular/core'], factory) :
-    (global = global || self, factory(global.button = {}, global.ng.core));
+    typeof define === 'function' && define.amd ? define('button-20190-1', ['exports', '@angular/core'], factory) :
+    (global = global || self, factory(global['button-20190-1'] = {}, global.ng.core));
 }(this, function (exports, core) { 'use strict';
 
     /**
@@ -40,7 +40,7 @@
         ButtonComponent.decorators = [
             { type: core.Component, args: [{
                         selector: 'lib-button',
-                        template: "\n    <p>\n      button works Demo testing!\n    </p>\n  "
+                        template: "\n    <p>\n      button works Demo testing !\n    </p>\n  "
                     }] }
         ];
         /** @nocollapse */
@@ -72,4 +72,4 @@
     Object.defineProperty(exports, '__esModule', { value: true });
 
 }));
-//# sourceMappingURL=button.umd.js.map
+//# sourceMappingURL=button-20190-1.umd.js.map

@@ -4,5 +4,11 @@
   "peerDependencies": {
     "@angular/common": "^8.0.0",
     "@angular/core": "^8.0.0"
-  }
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "directory": "dist"
+  },
+
+  "gitHead": "9366a78d79dc04b9cb3493d97040bda1599e16ba"
 }

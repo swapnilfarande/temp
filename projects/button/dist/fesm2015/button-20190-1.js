@@ -33,7 +33,7 @@ ButtonComponent.decorators = [
                 selector: 'lib-button',
                 template: `
     <p>
-      button works Demo testing!
+      button works Demo testing !
     </p>
   `
             }] }
@@ -66,4 +66,4 @@ ButtonModule.decorators = [
  */
 
 export { ButtonComponent, ButtonModule, ButtonService };
-//# sourceMappingURL=button.js.map
+//# sourceMappingURL=button-20190-1.js.map
