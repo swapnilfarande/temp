@@ -1,0 +1,21 @@
+{
+  "name": "input",
+  "version": "0.0.2",
+  "peerDependencies": {
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0"
+  },
+  "main": "bundles/input.umd.js",
+  "module": "fesm5/input.js",
+  "es2015": "fesm2015/input.js",
+  "esm5": "esm5/input.js",
+  "esm2015": "esm2015/input.js",
+  "fesm5": "fesm5/input.js",
+  "fesm2015": "fesm2015/input.js",
+  "typings": "input.d.ts",
+  "metadata": "input.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
