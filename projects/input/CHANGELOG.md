@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/swapnilfarande/temp/compare/input-20190-1@0.2.0...input-20190-1@0.2.1) (2019-07-10)
+
+
+### Bug Fixes
+
+* Add console log ([e3f83bf](https://github.com/swapnilfarande/temp/commit/e3f83bf))
+
+
+
+
+
 # 0.2.0 (2019-06-13)
 
 
